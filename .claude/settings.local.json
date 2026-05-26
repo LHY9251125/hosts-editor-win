@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -X POST http://localhost:5001/api/parse -H \"Content-Type: application/json\" -d \"{\"\"url\"\": \"\"https://v.douyin.com/qnZP_eN7Gbk/\"\"}\")",
+      "Bash(python -c \":*)",
+      "Bash(python server.py)"
+    ]
+  }
+}
