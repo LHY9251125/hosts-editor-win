@@ -1,4 +1,4 @@
-# 运维开发学习
+# Windows Hosts 文件编辑器
 
 一个 Windows Hosts 文件编辑器，用于方便地查看和修改系统 hosts 配置。
 
